@@ -1,6 +1,5 @@
 # TodoList
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
+Listado de tareas desarrollado con angular 17, typescript y bootstrap, utilizando localStorage para el almacenamiento de tareas.
 
 ## Development server
 
